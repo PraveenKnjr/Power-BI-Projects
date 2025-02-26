@@ -6,3 +6,4 @@ Power BI file created includes Data transformations at Power Query level by crea
 Transfomrtions at Power Query level includes operations like Merging, Unpivoting columns, changing data types, creating custom columns, etc.
 DAX functions used includes CALCULATE, CONTAINSSTRING, AVERAGE, SWITCH, IFELSE, LOOKUPVALUE, VARIABLES, GENERATESERIES, etc.
 Few Conditional formatting has been done to make the Visuals a bit more understanding.
+![image](https://github.com/user-attachments/assets/96d06a01-e5c4-4b03-a6f2-279c85899629)
